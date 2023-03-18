@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/F4MoviesProject/static/css/main.ae5be514.css",
-    "main.js": "/F4MoviesProject/static/js/main.e847220c.js",
-    "static/js/787.bfc7b00f.chunk.js": "/F4MoviesProject/static/js/787.bfc7b00f.chunk.js",
-    "index.html": "/F4MoviesProject/index.html",
-    "main.ae5be514.css.map": "/F4MoviesProject/static/css/main.ae5be514.css.map",
-    "main.e847220c.js.map": "/F4MoviesProject/static/js/main.e847220c.js.map",
-    "787.bfc7b00f.chunk.js.map": "/F4MoviesProject/static/js/787.bfc7b00f.chunk.js.map"
+    "main.css": "/f4/static/css/main.ae5be514.css",
+    "main.js": "/f4/static/js/main.74b64254.js",
+    "static/js/787.bfc7b00f.chunk.js": "/f4/static/js/787.bfc7b00f.chunk.js",
+    "index.html": "/f4/index.html",
+    "main.ae5be514.css.map": "/f4/static/css/main.ae5be514.css.map",
+    "main.74b64254.js.map": "/f4/static/js/main.74b64254.js.map",
+    "787.bfc7b00f.chunk.js.map": "/f4/static/js/787.bfc7b00f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ae5be514.css",
-    "static/js/main.e847220c.js"
+    "static/js/main.74b64254.js"
   ]
 }
